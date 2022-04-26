@@ -1,6 +1,6 @@
 
 # Credit Card Fraud Detection
-### DSML (ECS308/DSE302)
+### DSML (ECS308/DSE302) - April 2022
 
 The given dataset contains transactions made by credit card users in September 2013 by European cardholders. It presents transactions that occurred in two days, where there were 142 frauds out of 57116 transactions. The dataset is highly imbalanced. It contains only numerical input variables which are the result of a PCA transformation.
 
